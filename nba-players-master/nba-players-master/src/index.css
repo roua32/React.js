@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Anton:regular");
+* {
+  box-sizing: border-box;
+  font-family: "Anton";
+}
+
+body {
+  margin: 0;
+  background-image: url("https://wallpapers.com/images/hd/best-nba-zn90xecrm49mlwbx.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}

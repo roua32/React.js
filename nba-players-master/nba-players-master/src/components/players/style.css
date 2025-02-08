@@ -1,0 +1,8 @@
+#players {
+  background-color: #ffffff;
+  width: 70%;
+  display: grid;
+  grid-template: 1fr 1fr / repeat(5, 1fr);
+  gap: 5px;
+  padding: 5px;
+}
